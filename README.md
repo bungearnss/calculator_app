@@ -1,6 +1,9 @@
 # calculator_app
 
-A new Flutter project.
+A new Calculator App using Flutter inplement with GetX.
+
+![calculator_app](https://user-images.githubusercontent.com/66944039/184635538-6f0eaad1-9d86-4b4c-8725-9d251327d35e.png)
+
 
 ## Getting Started
 
